@@ -1,12 +1,14 @@
 ### Hello there, I'm Chris
 
-[![Website](https://img.shields.io/website?label=chrisduplessis.com&style=flat&url=https%3A%2F%2Fchrisduplessis.com)](website)
+[![Website](https://img.shields.io/website?label=chrisduplessis.com&style=flat&url=https%3A%2F%2Fchrisduplessis.com)][website]
 
 #### About Me
 
 - Currently an Actuarial Science student at WITS.
 - Try to do some coding things on the side.
 - Enjoy math stuff.
+
+<br />
 
 ---
 
@@ -24,21 +26,22 @@
 
 #### Languages and Tools
 
-<code><img height="30" width="30" src="assets/python.png">
+<img align="left" height="30" width="30" src="assets/python.png">
 <img align="left" height="30" width="30" src="assets/r.png">
 <img align="left" height="30" width="30" src="assets/excel.png">
 <img align="left" height="30" width="30" src="assets/access.png">
 <img align="left" height="30" width="30" src="assets/gcp.png">
 <img align="left" height="30" width="30" src="assets/travisci.png">
-<img align="left" height="30" width="30" src="assets/pycharm.png"></code>
+<img align="left" height="30" width="30" src="assets/pycharm.png">
+
+<br />
+
+---
 
 #### Github Stats
 
 <img align="left" alt="Maelstrom6's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Maelstrom6&show_icons=true&theme=dark" />
 
-
-
-<!-- end -->
 
 [website]: https://chrisduplessis.com
 [facebook]: https://web.facebook.com/christopher.duplessis.3
