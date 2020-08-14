@@ -18,6 +18,8 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
+<br />
+
 ---
 
 #### Languages and Tools
@@ -32,7 +34,7 @@
 
 #### Github Stats
 
-<img align="left" alt="Maelstrom6's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Maelstrom6&theme=dark&show_icons=true&hide_border=true" />
+<img align="left" alt="Maelstrom6's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Maelstrom6&show_icons=true&theme=dark" />
 
 
 
