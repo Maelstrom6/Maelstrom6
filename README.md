@@ -26,13 +26,13 @@
 
 #### Languages and Tools
 
-<img align="left" height="30" width="30" src="assets/python.png">
-<img align="left" height="30" width="30" src="assets/r.png">
-<img align="left" height="30" width="30" src="assets/excel.png">
-<img align="left" height="30" width="30" src="assets/access.png">
-<img align="left" height="30" width="30" src="assets/gcp.png">
-<img align="left" height="30" width="30" src="assets/travisci.png">
-<img align="left" height="30" width="30" src="assets/pycharm.png">
+<img align="left" height="30" width="30" src="https://raw.githubusercontent.com/Maelstrom6/Maelstrom6/master/assets/python.png">
+<img align="left" height="30" width="30" src="https://raw.githubusercontent.com/Maelstrom6/Maelstrom6/master/assets/r.png">
+<img align="left" height="30" width="30" src="https://raw.githubusercontent.com/Maelstrom6/Maelstrom6/master/assets/excel.png">
+<img align="left" height="30" width="30" src="https://raw.githubusercontent.com/Maelstrom6/Maelstrom6/master/assets/access.png">
+<img align="left" height="30" width="30" src="https://raw.githubusercontent.com/Maelstrom6/Maelstrom6/master/assets/gcp.png">
+<img align="left" height="30" width="30" src="https://raw.githubusercontent.com/Maelstrom6/Maelstrom6/master/assets/travisci.png">
+<img align="left" height="30" width="30" src="https://raw.githubusercontent.com/Maelstrom6/Maelstrom6/master/assets/pycharm.png">
 
 <br />
 
