@@ -4,7 +4,7 @@
 
 #### About Me
 
-- Currently an Actuarial Science student at WITS.
+- Currently an Actuarial Analyst.
 - Try to do some coding things on the side.
 - Enjoy math stuff.
 
